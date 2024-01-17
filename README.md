@@ -2,7 +2,7 @@
 Includes epub versions of murkybluematter's fanfic [Rigel Black Chronicles](https://www.fanfiction.net/u/3489773/murkybluematter)
 Check them out under the releases tab: https://github.com/Redundakitties/RigelBlackChronicles-by-murkybluematter/releases/tag/v1.0.0
 
-Links to the covers can be found [here](https://magnificenttyger.tumblr.com/post/640770514339741696/this-art-was-not-made-by-me-most-of-the-artists)
+Links to the covers can be found [here](https://www.tumblr.com/electriclittlefeline/640770514339741696/this-art-was-not-made-by-me-most-of-the-artists?source=share)
 
 <img src="https://i.imgur.com/25X4Zq2.png" width="400">
 
